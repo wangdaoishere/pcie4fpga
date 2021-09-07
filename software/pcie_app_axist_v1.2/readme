@@ -2,4 +2,4 @@
 
 基于pcie_app_v1.1 适用于XDMA的AXIMM的读写
 
-20210820 pcie_app_axist_v1.2 适用于XDMA的AXIst的读写（dma_to_device报错unknow error:512,读写数据不对齐，差4行）
+20210820 pcie_app_axist_v1.2 适用于XDMA的AXIst的读写
