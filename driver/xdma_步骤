@@ -1,0 +1,10 @@
+首先工程烧入板卡，重新启动ubuntu系统
+进入驱动目录 dma_ip_drivers-master/XDMA/linux-kernel/
+驱动初始化
+1.进入 xdma    make clean
+2.进入 xdma    make
+3.进入 tools   make
+
+进入root权限（xdma的使用必须在root权限下操作）
+加载驱动 进入tests  ./load_driver.sh
+测试通路 进入tests  ./run_test.sh
